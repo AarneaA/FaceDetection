@@ -1,0 +1,4 @@
+FaceDetection
+=============
+
+Algorithmics course  project.
